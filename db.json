@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "first_name": "Customer_1",
+      "last_name": "Customer_11",
+      "email": "customer1@mail.com",
+      "phone": "00000000000",
+      "address": "Customer_1 Address",
+      "description": "Customer_1 description"
+    },
+    {
+      "id": 2,
+      "first_name": "John",
+      "last_name": "Due",
+      "email": "john@mail.com",
+      "phone": "9638562356",
+      "address": "Dindoli, Surat",
+      "description": "Customer_2 description"
+    },
+    {
+      "first_name": "sonali",
+      "last_name": "rout",
+      "email": "sonali.rout.5057@gmail.com",
+      "phone": "9638526356",
+      "address": "udhna, surat",
+      "description": "description",
+      "id": 3
+    },
+    {
+      "first_name": "Rahul",
+      "last_name": "Jain",
+      "email": "rahul@gmail.com",
+      "phone": "9638526356",
+      "address": "Surat",
+      "description": "description",
+      "id": 4
+    }
+  ]
+}
